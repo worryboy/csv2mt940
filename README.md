@@ -128,17 +128,6 @@ git clone https://github.com/worryboy/csv2mt940.git
 cd csv2mt940
 ```
 
-Commit and push changes (e.g. after editing README or script):
-```bash
-git add README.md csv2mt940.py
-git commit -m "docs: update README with macOS usage and StarMoney examples"
-git push origin master
-```
-
-Update later:
-```bash
-git pull origin master
-```
 
 ---
 
